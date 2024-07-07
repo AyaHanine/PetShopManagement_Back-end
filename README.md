@@ -7,7 +7,7 @@ Cette application console simule la gestion d'un magasin d'animaux (Petshop). El
 
 Voici un diagramme de classe représentant la structure de l'application :
 
-![tabsters drawio](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/1bd099df-9583-41ff-af20-ed2e17383ba8)
+![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/ac96605d-9a9a-4d6d-bdc1-ace3e0f99d0d)
 
 ## Prérequis
 .NET SDK
@@ -15,7 +15,7 @@ Visual Studio
 
 ## Installation
 1. Clonez le dépôt :
-![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/f6714b0a-a601-41d3-ad0b-12d9abdeefb9)
+![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/cd49345b-2ac0-4977-a312-4c1dee6ef99a)
 
 2. Ouvrez le projet dans Visual Studio.
 ## Utilisation
@@ -24,7 +24,8 @@ Pour exécuter l'application, utilisez Visual Studio pour construire et exécute
 ## Exemple
 Voici un exemple de sortie de l'application :
 
-![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/e768365f-94b8-49da-8eb8-ad8c8df916e4)
+![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/47eeb5a6-141e-49ff-94c4-cb9c4008093c)
+
 
 ### Instructions pour le dépôt GitHub
 
@@ -36,9 +37,10 @@ Voici un exemple de sortie de l'application :
 
 3. **Ajouter le fichier `README.md` et d'autres fichiers du projet** :
    - Ajoutez tous les fichiers du projet, y compris `Program.cs` et le fichier `README.md`, au dépôt local.
-   
-![image](https://github.com/AyaHanine/PetShopManagement_BackEnd/assets/106993471/e5e455ac-fb1f-4933-a96d-ca049123ab61)
+   ![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/81a5a66d-fae2-4756-8bd8-70769670e0e7)
+
 
 4. **Pousser les changements vers GitHub** :
 Utilisez git push pour pousser les changements vers le dépôt distant sur GitHub.
-![image](https://github.com/AyaHanine/PetShopManagement_BackEnd/assets/106993471/edada1a3-1d98-4fe9-9568-b71db4eec805)
+![image](https://github.com/AyaHanine/PetShopManagement_Back-end/assets/106993471/95cf413a-adc2-408b-9c02-44031f63520d)
+
